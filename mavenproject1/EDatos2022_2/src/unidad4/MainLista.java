@@ -1,14 +1,8 @@
 package unidad4;
 
-import java.lang.System.Logger;
-import java.lang.System.Logger.Level;
 import unidad4.Excepciones.ListaVacia;
 import unidad4.Excepciones.PosicionIncorrecta;
 
-/**
- *
- * @author brunei
- */
 public class MainLista {
     ListaEnlazada <String> lista;
     
